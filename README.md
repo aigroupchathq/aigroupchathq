@@ -1,25 +1,20 @@
 # Vaishnav Deshmukh
 
+London-based builder. I make small, thoughtful tools for real life: helping people pay attention, make sense of what they think, and get practical work moving.
 
-Founder and builder working across software, cognitive tools, and civic technology.
+Most of my projects start with a simple question: what do we lose when everything asks us to move faster? I’m interested in bringing back time to focus, room to reflect, and useful technology that gives people more say over their day.
 
+## A few things I’m working on
 
-I make digital products that help people understand ideas and use them in everyday life. My work combines practical software, thoughtful learning, and clear design.
+- [I Think AI](https://ithink.ai.studio) — short attention exercises, progress tracking, and a private space for self-observation.
+- [It’s You](https://itsyou.ai.studio) — guided ways to notice thoughts and patterns before deciding what to do next.
+- [Civic Infrastructure Triage](https://github.com/aigroupchathq/civic-infrastructure-triage) — exploring how images and public data can help local teams spot and prioritize road defects.
+- [AI Group Chat Guide](https://aigroupchathq.github.io/aigroupchat-guide/) — a straightforward guide to turning an idea into working software. [Earlier version](https://aigroupchatserver.netlify.app/) · [Source](https://github.com/aigroupchathq/aigroupchat-guide)
 
+## A little about how I work
 
-## Projects
+I like clear language, calm interfaces, and projects that are useful beyond a demo. I move between product thinking and hands-on building, and I’m especially drawn to ideas that make everyday life a little more considered.
 
+## Find me
 
-- [Civic Infrastructure Triage](https://github.com/aigroupchathq/civic-infrastructure-triage) - explores how computer vision can help report and prioritize road defects.
-- [AI Group Chat Guide](https://aigroupchathq.github.io/aigroupchat-guide/) - a practical guide to planning, building, testing, and publishing software. [Source code](https://github.com/aigroupchathq/aigroupchat-guide) · [Earlier version](https://aigroupchatserver.netlify.app/)
-- [I Think AI](https://ithink.ai.studio) - attention exercises, progress tracking, and private self-observation.
-- [It's You](https://itsyou.ai.studio) - guided exercises for examining thought, attention, and decision making. [Source code](https://github.com/aigroupchathq/its-you-ai)
-
-
-## Links
-
-
-- [Portfolio](https://aigroupchathq.github.io/vaishnavdeshmukh-portfolio/)
-- [Portfolio source](https://github.com/aigroupchathq/vaishnavdeshmukh-portfolio)
-- [Email](mailto:vaishnavdeshmukh23@gmail.com)
-
+[Portfolio](https://aigroupchathq.github.io/vaishnavdeshmukh-portfolio/) · [Email](mailto:vaishnavdeshmukh23@gmail.com)
