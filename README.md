@@ -6,7 +6,7 @@ Most of my projects start with a simple question: what do we lose when everythin
 
 ## A few things I’m working on
 
-- [I Think AI](https://ithink.ai.studio) — short attention exercises, progress tracking, and a private space for self-observation.
+- [iTHINKwip](https://github.com/aigroupchathq/iTHINKwip) — An interactive learning experience exploring attention, neuroscience, and flow. [Old version](https://ithink.ai.studio)
 - [It’s You](https://itsyou.ai.studio) — guided ways to notice thoughts and patterns before deciding what to do next.
 - [Civic Infrastructure Triage](https://github.com/aigroupchathq/civic-infrastructure-triage) — exploring how images and public data can help local teams spot and prioritize road defects.
 - [AI Group Chat Guide](https://aigroupchathq.github.io/aigroupchat-guide/) — a straightforward guide to turning an idea into working software. [Earlier version](https://aigroupchatserver.netlify.app/) · [Source](https://github.com/aigroupchathq/aigroupchat-guide)
